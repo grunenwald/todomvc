@@ -1,0 +1,13 @@
+/bootstrap/compiled.php
+<<<<<<< HEAD
+/vendor
+composer.phar
+composer.lock
+.env.*.php
+.env.php
+.DS_Store
+Thumbs.db
+=======
+.env.*.php
+.env.php
+>>>>>>> 434832a923dca55ab37e501ddff96ceb78ea4d50
